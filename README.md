@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Saranlal Puthenveedu Satheesan
 
-<!--
-**saranlalps/saranlalps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Artificial Intelligence Student at University of East London  
+💻 AI | Machine Learning | Deep Learning | NLP  
+☁️ AWS | Python | SQL | Linux  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- MSc AI student passionate about ML & Deep Learning
+- Interested in Computer Vision & Security Systems
+- Open to global opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python | TensorFlow | PyTorch | Scikit-Learn | AWS | SQL | Linux
+
+## 📊 GitHub Stats
+[GitHub stats badge]
+
+## 📫 Connect with Me
+LinkedIn: www.linkedin.com/in/saranlal-ps-a22a58269
+Email: saranlal.ps@gmail.com
